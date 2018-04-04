@@ -1,6 +1,6 @@
-Anti-Locking Brake System
-=========================
+Anti-Lock Brake System
+======================
 
-Developed in C for the TI Luminary Cortex-M3 EVK under Code Composer Studio.
+Developed in C for the Stellaris EK-LM3S1968 Evaluation Board using Code Composer Studio.
 
 Authors: Aydin Arik and Paul Bowler
